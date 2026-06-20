@@ -1,2 +1,2 @@
 # Campus-Lost-And-Found-System
-makes it easy for students and lecturers to be able to find their lost items
+a web-based platform designed to help students and staff report, search for, and recover lost items within the campus community
